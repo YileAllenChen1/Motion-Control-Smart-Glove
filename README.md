@@ -36,7 +36,7 @@ Components: Raspberry Pi 4, flex sensors, triple-axis accelerometer and gyroscop
 </p>
 <h4 align="center">Flap hand up/down to scroll through pages, putting hand horizontally stops scrolling</h4>
 
-
-
 ## Video Demo 
-#### Please check final_demo.mp4 [here](final_demo.mp4)
+#### Please check final_demo.mp4 [here](final_demo.mp4)  
+---
+*Co-developed with Yingtao Jiang (equal contribution)*
