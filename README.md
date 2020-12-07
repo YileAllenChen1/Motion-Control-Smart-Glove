@@ -20,5 +20,18 @@ Components: Raspberry Pi 4, flex sensors, triple-axis accelerometer and gyroscop
   <img src="images/prototype1.png" height="400" width="300" > <img src="images/prototype2.jpg" height="400" width="300" >
 </p>
 
+## Short Demos
+<h3 align="center">Three gestures</h3>
+<p align="center">
+  <img src="images/return_to_home.gif" height="200" width="300" > <img src="images/swipe_between_desktop.gif" height="200" width="300" > <img src="images/scrolling.gif" height="200" width="300" >
+</p>
+
+**Left**: Tap finger to return to desktop, tap again to return to previous window
+
+**Middle**: Swipe hand left/right to switch between virtual desktops
+
+**Right**: Flap hand up/down to scroll through pages, putting hand horizontally stops scrolling
+
+
 ## Video Demo 
-Please check final_demo.mp4
+#### Please check final_demo.mp4 [here](final_demo.mp4)
